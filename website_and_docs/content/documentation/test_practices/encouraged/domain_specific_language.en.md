@@ -7,7 +7,7 @@ aliases: [
 "/documentation/guidelines/domain_specific_language/"
 ]
 ---
-
+POM
 A domain specific language (DSL) is a system which provides the user with
 an expressive means of solving a problem. It allows a user to
 interact with the system on their terms – not just programmer-speak.
